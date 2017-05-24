@@ -1,4 +1,8 @@
 # shopDelivery_UberRush
 Able to use UberRush to delivery items
 
-TESTING>>>>>>
+Ruby on Rails
+Angularjs
+CSS
+HTML
+Node.js & Express
